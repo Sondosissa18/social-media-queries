@@ -10,16 +10,16 @@ In doing so, you'll be demonstrating a basic understanding of the following:
 - combining data from multiple tables using SQL joins
 
 ## Getting Started
-To get started, _fork_ this repository into your own GitHub account then clone
+To get started, _fork_ this repository into your own GitLab account then clone
 this repository to your local machine:
 
 ```console
-foo@bar:~ $ git clone git@github.com:github-username/social-media-queries
+foo@bar:~ $ git clone git@gitlab.com:gitlab-username/social-media-queries
 foo@bar:~ $ cd social-media-queries
 foo@bar:~/social-media-queries $
 ```
 
-Note `github-username` above. In other words, __don't__ simply copy-paste the
+Note `gitlab-username` above. In other words, __don't__ simply copy-paste the
 code above blindly into a terminal. 
 
 Next, create a database named 'social-media':
@@ -254,4 +254,4 @@ like [sequelize](http://docs.sequelizejs.com/) for joins :-)
 
 ## Submission
 You __do not__ have to submit a deployed application. Simply submit a link to
-your github repository with the above steps (part 1 & 2) completed.
+your gitlab repository with the above steps (part 1 & 2) completed.
