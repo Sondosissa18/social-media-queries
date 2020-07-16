@@ -1,0 +1,20 @@
+{
+  "name": "social-media-queries",
+  "version": "1.0.0",
+  "description": "For this assessment, you'll be writing a backend service that executes SQL\r queries to manipulate rows in a database for a social media application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Sondosissa/social-media-queries.git"
+  },
+  "author": "sondos issa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Sondosissa/social-media-queries/issues"
+  },
+  "homepage": "https://gitlab.com/Sondosissa/social-media-queries#readme"
+}
